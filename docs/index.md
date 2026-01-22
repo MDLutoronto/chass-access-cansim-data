@@ -1,7 +1,8 @@
 ---
 title: "Accessing CANSIM data through CHASS"
 layout: "home"
-description: ""
+description: "This guide is primarily designed to help users unfamiliar with the CANSIM database to find and download data through CHASS. Please note that a University of Toronto IP address is required to access CHASS. CANSIM data may also be accessed through the Statistics Canada website. Tutorial available here."
+
 permalink: "/"  #! Remove this if not the homepage
 ---
 
