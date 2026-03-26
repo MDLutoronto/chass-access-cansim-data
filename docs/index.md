@@ -1,6 +1,9 @@
 ---
 title: "Accessing CANSIM data through CHASS"
 layout: "home"
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 description: "This guide is primarily designed to help users unfamiliar with the CANSIM database to find and download data through CHASS. Please note that a University of Toronto IP address is required to access CHASS. CANSIM data may also be accessed through the Statistics Canada website. Tutorial available here."
 created_date: 2018-01-26
 permalink: "/"  #! Remove this if not the homepage
@@ -90,4 +93,4 @@ If you do not know the name or number of the survey, table, or series, you can s
     ![]({{ '/assets/images/results.png' | relative_url }})
 
  
-Technique: [Searching for maps and data](/technique/searching-maps-and-data) | Tools: [CHASS Census Analyzer](/taxonomy/term/72)
+Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Tools: [CHASS Census Analyzer](https://mdl.library.utoronto.ca/taxonomy/term/72)
