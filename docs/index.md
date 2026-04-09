@@ -91,6 +91,3 @@ If you do not know the name or number of the survey, table, or series, you can s
 7. The dataset appears as a table. You can also choose a different output format, such as CSV file (can open as a spreadsheet), SAS, SPSS, etc. to import the data into stats software.
 
     ![]({{ '/assets/images/results.png' | relative_url }})
-
- 
-Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data) | Tools: [CHASS Census Analyzer](https://mdl.library.utoronto.ca/taxonomy/term/72)
