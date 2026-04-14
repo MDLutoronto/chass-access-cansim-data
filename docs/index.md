@@ -92,4 +92,4 @@ If you do not know the name or number of the survey, table, or series, you can s
 
     ![]({{ '/assets/images/results.png' | relative_url }})
 
-Technique: [Searching for maps and data]([https://mdl.library.utoronto.ca/technique/searching-maps-and-data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | Tools: [CHASS Census Analyzer](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data&tool=CHASS+Census+Analyzer)
+Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | Tools: [CHASS Census Analyzer](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data&tool=CHASS+Census+Analyzer)
