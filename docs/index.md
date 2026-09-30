@@ -15,7 +15,7 @@ This guide is primarily designed to help users unfamiliar with the CANSIM databa
 
 **Please note** that a University of Toronto IP address is required to access CHASS.
 
-Note: CANSIM data may also be accessed through the Statistics Canada website. Tutorial available [here.](https://mdl.library.utoronto.ca/technology/tutorials/cansim-guide)
+Note: CANSIM data may also be accessed through the Statistics Canada website. Tutorial available [here.](https://mdlutoronto.github.io/statcan-socioeconomic-time-series-access/)
 
 **1. Getting Started**
 
@@ -25,7 +25,7 @@ CANSIM is Statistics Canada’s main socioeconomic time series database. It cont
 
 ***b. How to access CANSIM:***
 
-* On the [Map & Data Library homepage](https://mdl.library.utoronto.ca/), search for "CANSIM via CHASS*"* in the search bar.
+* On the [Map & Data Library homepage](https://library.utoronto.ca/library/mdl#data-collections), search for "CANSIM via CHASS*"* in the search bar.
 
     ![View of MDL search bar]({{ '/assets/images/CANSIM_1.png' | relative_url }})
 * Select *CANSIM via CHASS* under the *statistics* list.
